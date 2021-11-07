@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Class Resources
+
+Class Resources
+Mission_to_Mars_Challenge_starter_code.ipynb
+Mission_to_Mars_Challenge.py
+Mission_to_Mars.ipynb
+Mission_to_Mars.py
+Practice.ipynb
+
+
 # C extensions
 *.so
 
