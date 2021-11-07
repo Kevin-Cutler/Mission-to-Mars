@@ -16,13 +16,13 @@ Our initial web app is completed and working great, Robin's would like to add mo
 _________________________________________________________________
 I started by narrowing down to the most relevant sites that i research to use as the source of data.Using the DevTools I inspect the page for the proper elements to scrape. Using Splinter, Beautiful Soup, and Python to write a script Im able to pull data from the websites and store results a dictonary for later use.
 
-capture
+<img width="484" alt="Splinter_BS_Scrape_Websites" src="https://user-images.githubusercontent.com/88467263/140651395-f5f7f68e-387c-4631-baf3-9437eafe0540.PNG">
 
 ### Update the Web App with Mars Hemisphere Images and Titles
 _________________________________________________________________
 We export the the results in our dictonary and update the Mongo database to modify our html file and update our webpage to contain all of the information we scraped, we use Flask to host on the web.
 
-capture
+<img width="484" alt="Splinter_BS_Scrape_Websites" src="https://user-images.githubusercontent.com/88467263/140651401-84c4b1b8-2c8f-4278-a7e4-2e5880c18129.PNG">
 
 ### Add Bootstrap 3 Components
 _________________________________________________________________
@@ -30,7 +30,12 @@ _________________________________________________________________
 Finaly using the skills Ive obtained in HTML, CSS, and assistance from Bootstrap we add customization to our website by styling the "Scrape New Data" button. We update the facts table and add the four hemisphere images as thumbnails.
 
 
-Capture
+<img width="484" alt="Splinter_BS_Scrape_Websites" src="https://user-images.githubusercontent.com/88467263/140651404-b59028eb-a71e-425b-80cd-469c9fc360c7.PNG">
+
+______________________________________________________
+
+<img width="484" alt="Splinter_BS_Scrape_Websites" src="https://user-images.githubusercontent.com/88467263/140651413-629b0b53-6425-433c-ba5d-5a29dbf14ec3.PNG">
+
 
 
 # Summary:
