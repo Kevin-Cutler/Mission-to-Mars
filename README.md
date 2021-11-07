@@ -30,11 +30,13 @@ _________________________________________________________________
 Finaly using the skills Ive obtained in HTML, CSS, and assistance from Bootstrap we add customization to our website by styling the "Scrape New Data" button. We update the facts table and add the four hemisphere images as thumbnails.
 
 
-<img width="484" alt="Splinter_BS_Scrape_Websites" src="https://user-images.githubusercontent.com/88467263/140651429-e9fe223a-864a-4fc3-9b39-6b41bcf40007.PNG">
+<img width="725" alt="Mission_to_Mars" src="https://user-images.githubusercontent.com/88467263/140651450-bab29b88-07c2-446d-bbec-c60b5092aa09.PNG">
+
 
 ______________________________________________________
 
-<img width="484" alt="Splinter_BS_Scrape_Websites" src="https://user-images.githubusercontent.com/88467263/140651434-baec4604-e4cb-409a-b942-ad8b0e52bcd2.PNG">
+
+<img width="343" alt="Mission2Mars2" src="https://user-images.githubusercontent.com/88467263/140651457-fd74f731-44d0-4e4e-ba0e-7237e7917414.PNG">
 
 
 
